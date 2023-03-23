@@ -35,7 +35,9 @@ void solve() {
 	int t;
 	cin >> t;
 	while (t--) {
-
+        
+        }
+ 
 }
 int main() {
 #ifndef ONLINE_JUDGE
